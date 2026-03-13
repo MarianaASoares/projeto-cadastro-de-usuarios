@@ -11,6 +11,11 @@ const app = express()
 app.use(express.json())
 app.use(cors())
 
+//rota raiz da API
+//usada para confirmar se o servidor está rodando
+app.get('/', (req, res) => {
+    res.send("API de usuários funcionando!")
+})
 
 
 app.get('/usuarios', async (req , res) => {
