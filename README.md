@@ -1,7 +1,8 @@
 # :clipboard: Sistema de Cadastro de Usuários
 
 
-<p>Aplicação web full-stack desenvolvida para gerenciamento simples de usuários, permitindo cadastrar, listar e excluir usuários de forma prática através de uma interface moderna e responsiva.</p>
+<p>Aplicação full-stack para gerenciamento de usuários, permitindo cadastrar, listar e excluir registros através de uma interface moderna e responsiva.
+O projeto demonstra a integração completa entre front-end, back-end e banco de dados.</p>
 
 🔗 Deploy: https://cadastro-de-usuarios-nu.vercel.app/
 
