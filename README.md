@@ -176,12 +176,15 @@ npm install
 # iniciar aplicação
 npm run dev
 ```
+---
 
 # :warning: Observações
 
 ### Este projeto foi desenvolvido com fins educacionais durante meus estudos em desenvolvimento Full-Stack
 
 ### A API está hospedada publicamente no Render para permitir que a aplicação funcione normalmente em ambiente de demonstração.
+
+---
 
 # :woman_technologist: Autora
 
